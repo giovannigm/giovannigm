@@ -37,7 +37,7 @@ Aquí verás mi pasión por la tecnología, el desarrollo y el aprendizaje const
 ## 🌐 Conectemos
 
 - 💬 Si tienes una idea, proyecto o simplemente quieres saludar, ¡escríbeme!
-- 📫 [giovanniantonygarcia@gmail.com(mailto:giovanniantonygarcia@gmail.com)
+- 📫 [giovanniantonygarcia@gmail.com](mailto:giovanniantonygarcia@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/giovanni-garcia-835001198/)
 - 🌐 [WebSite](https://giovannigarcia.uy/)
 
